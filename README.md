@@ -1,6 +1,9 @@
 # Generador_decontraseñas_seguras
 Proyecto de generador de contraseñas por David Armas
-# Generador de Contraseñas en Python
+Fecha: 24/08/2025
+# Generador de Contraseñas en lenguaje Python
+# No es necesario instalar librerias pero si necesitas phyton 3.8 o superior
+# 
 
 Este proyecto es un **generador de contraseñas seguras** desarrollado en Python por el estudiante David Armas como parte del proyecto final de Lógica de Programación.  
 El programa tiene estructuras condicionales, bucles, listas y tuplas, además de elementos básicos de procesamiento de datos y hace uso de librerias y funciones.
