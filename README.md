@@ -1,5 +1,5 @@
 # Generador_decontraseñas_seguras
-Proyecto de generador de contraseñas 
+Proyecto de generador de contraseñas por David Armas
 # Generador de Contraseñas en Python
 
 Este proyecto es un **generador de contraseñas seguras** desarrollado en Python por el estudiante David Armas como parte del proyecto final de Lógica de Programación.  
