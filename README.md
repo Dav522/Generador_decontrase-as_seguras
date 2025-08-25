@@ -1,4 +1,4 @@
-# Generador_decontrase-as_seguras
+# Generador_decontraseñas_seguras
 Proyecto de generador de contraseñas 
 # Generador de Contraseñas en Python
 
